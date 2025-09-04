@@ -2,9 +2,9 @@
 M-Pesa Daraja API integration for Kenya government services
 
 
-# 🇰🇪 M-Pesa Government Services Payment Toolkit
+# M-Pesa Government Services Payment Toolkit
 
-A PHP-based integration with M-Pesa Daraja API for processing payments for Kenya government services including Business Permits, Certificates of Good Conduct, Driving License Renewals, and Marriage Certificates.
+A PHP-based integration with M-Pesa Daraja API for processing payments for Kenya government services including Business Permits, Certificates of Good Conduct, Driving License Renewals, and Marriage Certificates etc.
 
 ## 🎯 Project Overview
 
