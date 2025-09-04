@@ -152,34 +152,7 @@ echo \$token ? 'Auth Success' : 'Auth Failed';
 - **Error Logging** - Comprehensive logging for debugging and monitoring
 - **Environment Variables** - Sensitive credentials stored securely
 
-## 🔍 Troubleshooting
 
-### Common Issues
-
-**1. Authentication Failed**
-```
-Error: Failed to authenticate with M-Pesa API
-Solution: Check your Consumer Key and Consumer Secret in .env file
-```
-
-**2. Invalid Phone Number**
-```
-Error: Invalid phone number format
-Solution: Use format 0712345678 or 254712345678
-```
-
-**3. STK Push Timeout**
-```
-Error: Request timeout
-Solution: Check network connection and try again
-```
-
-### Debug Mode
-Enable detailed logging by adding to `.env`:
-```bash
-DEBUG_MODE=true
-LOG_LEVEL=debug
-```
 
 ## 📚 Learning Resources
 
@@ -195,9 +168,6 @@ LOG_LEVEL=debug
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🏗️ Built With
 
@@ -215,5 +185,3 @@ For technical support or questions about this implementation:
 - Review Safaricom Developer documentation
 
 ---
-
-**⚡ Built with AI assistance as part of Moringa School's GenAI Capstone Project**
